@@ -1,12 +1,16 @@
+#for addition
 def add(x, y):
     return x + y
-
+    
+#for subtraction
 def subtract(x, y):
     return x - y
 
+#for multiplication
 def multiply(x, y):
     return x * y
 
+#for division
 def divide(x, y):
     return x / y
 
